@@ -24,13 +24,13 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 <br>
 
 
-** :memo:개발 환경**
+#### :memo:개발 환경
 
 eclipse , SQL developer
 
 <br>
 
-** :memo:개발 언어** 
+#### :memo:개발 언어
 
 JAVA , oracle
 
