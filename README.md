@@ -1,7 +1,7 @@
 
 <h1 align="center"> JumTalk </h1> 
 
-<h3 align="center"> >  :computer: java swing project </h3>
+<h3 align="center"> :computer: java swing project </h3>
 
 
 <br>
