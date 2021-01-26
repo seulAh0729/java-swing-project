@@ -141,6 +141,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 예약 - 일반사용자 
+
 <br>
 <br>
 
@@ -151,6 +152,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 예약하기 - 일반사용자
+
 <br>
 <br>
 
@@ -184,6 +186,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 <br>
 
 #### 채팅 - 일반사용자 시점
+
 <br>
 <br>
 
@@ -194,8 +197,10 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 리뷰 - 일반사용자
+
 <br>
 <br>
+
 ![그림11](https://user-images.githubusercontent.com/67575406/105818630-80111d00-5ffa-11eb-9003-66899cb2ad9d.png)
 
 <br>
@@ -203,8 +208,10 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 코인  - 일반사용자 
+
 <br>
 <br>
+
 ![그림12](https://user-images.githubusercontent.com/67575406/105818633-80111d00-5ffa-11eb-8318-bd6d0a6890ed.png)
 
 
@@ -213,8 +220,10 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 포춘쿠키 이벤트 
+
 <br>
 <br>
+
 ![그림13](https://user-images.githubusercontent.com/67575406/105818634-80a9b380-5ffa-11eb-8fd6-7620d6632059.png)
 
 
@@ -223,8 +232,10 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 코인 충전 - 일반사용자 
+
 <br>
 <br>
+
 ![그림14](https://user-images.githubusercontent.com/67575406/105818635-80a9b380-5ffa-11eb-8547-20a3275ccc99.png)
 
 
@@ -232,9 +243,12 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 <br>
 
 
+
 #### 설정 - 일반사용자 
+
 <br>
 <br>
+
 ![그림15](https://user-images.githubusercontent.com/67575406/105818638-81424a00-5ffa-11eb-8175-014d445550f9.png)
 
 
@@ -265,6 +279,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 메인화면 (예약)  -  점술가 
+
 <br>
 <br>
 
@@ -273,6 +288,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 예약 시간 및 날짜 - 점술가
 
 <br>
@@ -285,6 +301,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 <br>
 
 #### 예약 알림 시스템 - 점술가
+
 <br>
 <br>
 
@@ -293,6 +310,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 예약 메뉴표 - 점술가
 
 <br>
@@ -303,7 +321,9 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 코인 환전 - 점술가
+
 <br>
 <br>
 
@@ -312,7 +332,9 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 점술가 리뷰
+
 <br>
 <br>
 
@@ -331,6 +353,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 회원 프로필 
 
 
@@ -345,6 +368,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 재화 - 관리자 
+
 <br>
 <br>
 
@@ -355,6 +379,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 
 #### 설정 - 관리자
+
 <br>
 <br>
 
