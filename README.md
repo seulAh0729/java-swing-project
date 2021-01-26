@@ -24,9 +24,9 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 <br>
 
 
-##### 개발 환경 : eclipse , SQL developer
+**개발 환경** : eclipse , SQL developer
 
-##### 개발 언어 :  JAVA , oracle
+**개발 언어** :  JAVA , oracle
 
 <br>
 
