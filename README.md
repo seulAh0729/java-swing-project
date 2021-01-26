@@ -95,7 +95,8 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 #### 아이디찾기
 
-
+<br>
+<br>
 
 ![그림3](https://user-images.githubusercontent.com/67575406/105816996-5f47c800-5ff8-11eb-9e05-58f60304144a.png)
 
@@ -107,6 +108,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 ![그림4](https://user-images.githubusercontent.com/67575406/105817004-61118b80-5ff8-11eb-96d6-5a3deb53dc8c.png)
 
 
@@ -141,6 +143,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 예약 - 일반사용자 
 <br>
 <br>
+
 ![그림7](https://user-images.githubusercontent.com/67575406/105818624-7edff000-5ffa-11eb-96db-86eed6ead0fc.png)
 
 <br>
@@ -150,6 +153,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 예약하기 - 일반사용자
 <br>
 <br>
+
 ![그림29](https://user-images.githubusercontent.com/67575406/105818997-f0b83980-5ffa-11eb-824e-2ceb4dcae0f8.png)
 
 <br>
@@ -182,6 +186,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 채팅 - 일반사용자 시점
 <br>
 <br>
+
 ![그림10](https://user-images.githubusercontent.com/67575406/105818629-7f788680-5ffa-11eb-9e41-6aca4810fcd3.png)
 <br>
 <br>
@@ -262,6 +267,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 메인화면 (예약)  -  점술가 
 <br>
 <br>
+
 ![그림18](https://user-images.githubusercontent.com/67575406/105818600-7ab3d280-5ffa-11eb-81f9-ac37038b897b.png)
 
 
@@ -277,9 +283,11 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 #### 예약 알림 시스템 - 점술가
 <br>
 <br>
+
 ![그림20](https://user-images.githubusercontent.com/67575406/105818605-7be4ff80-5ffa-11eb-8b03-21e4482b331b.png)
 
 
@@ -298,6 +306,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 코인 환전 - 점술가
 <br>
 <br>
+
 ![그림22](https://user-images.githubusercontent.com/67575406/105818609-7c7d9600-5ffa-11eb-8412-489a544f27e6.png)
 
 
@@ -306,6 +315,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 점술가 리뷰
 <br>
 <br>
+
 ![그림30](https://user-images.githubusercontent.com/67575406/105819954-404b3500-5ffc-11eb-8065-a80d7e358912.png)
 
 <br>
@@ -326,6 +336,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 
 <br>
 <br>
+
 ![그림24](https://user-images.githubusercontent.com/67575406/105818612-7d162c80-5ffa-11eb-974f-7b3a4d7045c1.png)
 
 <br>
@@ -346,7 +357,9 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 설정 - 관리자
 <br>
 <br>
+
 ![그림27](https://user-images.githubusercontent.com/67575406/105818621-7e475980-5ffa-11eb-99d8-4c93c4ed7310.png)
+
 <br>
 <br>
 
@@ -363,6 +376,7 @@ JAVA GUI  채팅프로그램  **'Jumtalk'**  입니다.
 #### 받은 메세지함 - 관리자
 <br>
 <br>
+
 ![그림31](https://user-images.githubusercontent.com/67575406/105820407-df702c80-5ffc-11eb-9dd1-ec9f6bfa7cbf.png)
 
 <br>
